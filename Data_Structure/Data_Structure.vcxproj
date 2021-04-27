@@ -155,6 +155,7 @@
     <ClCompile Include="Stack.c" />
     <ClCompile Include="Queue.c" />
     <ClCompile Include="LinkedList.c" />
+    <ClCompile Include="HashTable.c" />
     <ClCompile Include="main.c" />
   </ItemGroup>
   <ItemGroup>
